@@ -37,7 +37,7 @@ Meu nome é José Emerson. Sou estudante de Desenvolvimento de Sistemas.
 
 ### Let's connect? 🤝 
  
-<a href="https://www.youtube.com/channel/UCyBFm9jfldpcirVP_YFU9Pw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/feed/you"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jose-emersonbrasilino-849783175/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/joseemersonsb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:santosbrasilino2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
